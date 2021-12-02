@@ -11,4 +11,4 @@ while read LIN
 done < tempirj0f49j49r
 rm tempirj0f49j49r
 mv sh/secretary.sh secretary.sh 2> /dev/null
-echo Concluído.
+echo Finished.
